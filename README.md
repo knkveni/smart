@@ -1,4 +1,2 @@
 # smart
 # good
-brilliant
-
